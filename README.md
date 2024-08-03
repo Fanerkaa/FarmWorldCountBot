@@ -6,6 +6,6 @@
 ![Screenshot](https://github.com/Fanerkaa/FarmWorldCountBot/blob/main/image/test.png)
 
 ## Запуск проекта
-```PYTHON
+```python
 python main.py
 ```
