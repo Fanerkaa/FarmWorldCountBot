@@ -4,3 +4,8 @@
 ## Пример
 
 ![Screenshot](https://github.com/Fanerkaa/FarmWorldCountBot/blob/main/image/test.png)
+
+## Запуск проекта
+```Python
+python main.py
+```
